@@ -1,3 +1,3 @@
-def parrot_says_squawk(phrase = "Squawk!")
-  puts phrase
+def parrot
+  puts "Squawk!"
 end

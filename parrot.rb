@@ -1,3 +1,4 @@
-def phrase(name = "Squawk!")
-  puts "#{name}"
-end
+do
+    phrase = parrot
+    expect(phrase).to eq("Squawk!")
+  end
